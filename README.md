@@ -15,7 +15,7 @@ NOTE: You need to also download the datasets folder in order for project to work
 
 ## 📸 Visualizations from the Project
 
-![Screenshot](Movie_Duration.png)
+![Screenshot](Netflix_Movie_Durations.png)
 <br/>
 
-![Screenshot](Netflix_Movie_Durations.png)
+![Screenshot](Movie_Durations.png)
